@@ -1,5 +1,4 @@
-# UCTTP Code
-Python code for solving the UCTTP.
+# UCTTP Modelling Paper
 
 ## Setup
 
