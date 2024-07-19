@@ -1,4 +1,5 @@
 # UCTTP Modelling Paper
+Python 3.9.5, requires valid Gurobi license.
 
 ## Setup
 
